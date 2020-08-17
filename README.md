@@ -4,7 +4,7 @@
 
 * You can find the lecture videos at:
 
-        🔗 https://www.youtube.com/playlist?list=PLoaCNumrILN8D5rfBtv83g3WspOyI8bhT
+    🔗 https://www.youtube.com/playlist?list=PLoaCNumrILN8D5rfBtv83g3WspOyI8bhT
 
 ## syllabus
 
