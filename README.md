@@ -2,6 +2,9 @@
 
 * Data Science 102 Bootcamp that I gave with the association with Kodluyoruz
 
+* You can find the lecture videos at:
+        
+        🔗 https://www.youtube.com/playlist?list=PLoaCNumrILN8D5rfBtv83g3WspOyI8bhT
 
 ## syllabus
 
