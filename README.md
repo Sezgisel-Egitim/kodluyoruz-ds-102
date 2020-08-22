@@ -2,6 +2,8 @@
 
 * Data Science 102 Bootcamp that I gave with the association with Kodluyoruz
 
+* I want to give my special thanks to the assistants of this bootcamp for their hard works to help students and their continuous support to the education throughout the bootcamp. 
+
 * You can find the lecture videos at:
 
     🔗 https://www.youtube.com/playlist?list=PLoaCNumrILN8D5rfBtv83g3WspOyI8bhT
@@ -42,7 +44,19 @@
 14. Label Smoothing 
 15. Wanna train your models fast - try Mixed Precision Training
 
+* Instructor: Engin Deniz Alpman
 
+* Assistants (alphabetically):
+  * Ahmet Arif Avcı 
+  * Burak Bagatarhan
+  * Elif Bayındır
+  * Fahri Bilici 
+  * Kubilay Gazioğlu
+  * Melis Han
+  * Neris Özen
+  * Rana Kalkan
+  * Uğur Emek
+  
 * In creating this course, there is a good deal of knowledge that I acquired from StatQuest and fastai, thank you for creating great contents. You can find their works at links below:
     * StatQuest: https://www.youtube.com/user/joshstarmer
     * fastai:  https://www.fast.ai/
